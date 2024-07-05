@@ -1,0 +1,2 @@
+Este programa em PYTHON entra no site, carrega o login e senha entrar no pagina e preencher 
+automaticamente as demais campos com dados retirados da planilha (empresas.xlsx).
